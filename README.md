@@ -115,6 +115,22 @@ _Add your project description here._
 
 ---
 
+## 🌎 Open Source Contributions
+
+### 🎉 First Open Source Contribution
+
+**[awesome-digital-civil-engineering](https://github.com/Ayberkrk/awesome-digital-civil-engineering)**
+
+🔹 **Contribution:** Added a social preview banner to the project's README  
+🔹 **Pull Request:** [#30 — Add a social preview image and a visual to the README](https://github.com/Ayberkrk/awesome-digital-civil-engineering/pull/30)  
+🔹 **Status:** ✅ Merged
+
+> 🚀 My first open-source contribution! Added a visual improvement to the README and got my first pull request merged.
+
+I'm looking forward to contributing to more open-source projects, collaborating with developers, and learning from the open-source community.
+
+---
+
 ## 🧠 Currently Learning
 
 ```text
@@ -123,71 +139,3 @@ Full-Stack Development      ████████░░░  Building
 AI / LLM Applications       ███████░░░░  Exploring
 System Design               ████░░░░░░░  Exploring
 DevOps / Docker             ████░░░░░░░  Learning
-```
-
----
-
-## 💡 What I'm Interested In
-
-```text
-▸ Full-Stack Development
-▸ Artificial Intelligence
-▸ AI Agents & LLM Applications
-▸ Data Structures & Algorithms
-▸ Backend Engineering
-▸ Developer Tools
-▸ Hackathons & Open Source
-```
-
----
-
-## 🏆 Goals
-
-- 🎓 Strengthen my CS fundamentals
-- 🧠 Become strong at DSA & problem solving
-- 🚀 Build production-quality applications
-- 🤖 Explore practical AI engineering
-- 🏆 Participate in hackathons
-- 💼 Secure a software engineering internship
-- 🌎 Contribute to open-source projects
-- 👨‍💻 Grow into a **Full-Stack / AI Engineer**
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_X_URL">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I like turning ideas into working software — preferably with a little help from AI. 🤖
-
----
-
-<p align="center">
-  <i>“Build. Break. Learn. Repeat.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you find something interesting here, feel free to explore my repositories!
-</p>
